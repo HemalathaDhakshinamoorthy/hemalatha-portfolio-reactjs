@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "hemalatha-portfolio-reactjs",
+      "createdAt": "2024-08-14T13:20:54Z",
+      "url": "https://github.com/HemalathaDhakshinamoorthy/hemalatha-portfolio-reactjs",
+      "description": "The Complete Portfolio that showcases my work and has professional detail about me",
+      "isFork": false,
+      "technologies": [
+        "React JS",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Dockerfile"
+      ],
+      "languages": [
+        {
+          "name": "React JS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "OceanSMART",
+      "createdAt": "2024-08-14T13:20:54Z",
+      "url": "",
+      "description": "A platform that provides real-time visibility of vessels, cargoes, and maritime assets to help cargo owners reduce waste throughout the cargo value chain",
+      "isFork": false,
+      "technologies": [
+        "React JS",
+        "Express JS",
+        "Nest JS",
+        "JavaScript",
+        "Typescript",
+        "C#",
+        "Java",
+        "Dockerfile",
+        "Azure"
+      ],
+      "languages": [
+        {
+          "name": "Express JS",
+          "iconifyClass": ""
+        },
+        {
+          "name": "Nest JS",
+          "iconifyClass": ""
+        },
+        {
+          "name": "React JS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": ""
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "GTM Tools for State Street",
+      "createdAt": "2020-08-03T13:20:54Z",
+      "url": "",
+      "description": "Global Transaction Management tool for electronic trade notifications.",
+      "isFork": false,
+      "technologies": [
+        "Angular",
+        "C#",
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "AWS"
+      ],
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Exchange Traded Funds for State Street",
+      "createdAt": "2017-10-11T10:40:54Z",
+      "url": "",
+      "description": "A web application allows users to generate data that can be used for trading the exchange funds.",
+      "isFork": false,
+      "technologies": [
+        "React JS",
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": ""
+        },
+        {
+          "name": "Sprint Boot",
+          "iconifyClass": ""
+        },
+        {
+          "name": "Hibernate",
+          "iconifyClass": ""
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Horizon",
+      "createdAt": "2013-02-20T16:30:32Z",
+      "url": "",
+      "description": "Transaction based Portfolio Monitoring System for Financial Investments",
+      "isFork": false,
+      "technologies": [
+        "Angular",
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSP"
+      ],
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": ""
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
