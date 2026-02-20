@@ -21,11 +21,11 @@ const seo = {
 const greeting = {
   title: "Hemalatha Dhakshinamoorthy",
   logo_name: "Hemalatha",
-  nickname: "Technical Lead",
+  nickname: "Senior FullStack Developer",
   subTitle:
     "Leading cross-functional development teams, architecting scalable solutions, and delivering complex software products, bridge business goals with technical execution.",
   resumeLink:
-    "https://drive.google.com/file/d/1r51FlPWBo4bAOMU4CS4n7HrTg2Hm4kSE/view?usp=sharing",
+    "https://drive.google.com/file/d/1whx24yOUQZs0sEPdkC6lU18ddI5q7j_V/view?usp=sharing",
   portfolio_repository:
     "https://github.com/HemalathaDhakshinamoorthy/hemalatha-portfolio-reactjs",
   githubProfile: "https://github.com/HemalathaDhakshinamoorthy",
@@ -299,7 +299,7 @@ const degrees = {
       title:
         "Idhaya College of Engineering for Women, Anna University, Chennai, India",
       subtitle: "B.E - Computer Science and Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "IdhayaCollege_logo.png",
       alt_name: "Anna University, Chennai",
       duration: "2008 - 2012",
       descriptions: [
@@ -345,8 +345,8 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "I started my career from a evolving startup as Associate Software Developer, Software Developer, Senior Software Developer. I have also worked with some well established companies mostly as Senior Software Developer, Technical Lead. I have worked on multiple projects in the field of Full Stack Development, Data Science, Cloud Computing, Visualization, Generative AI, etc.",
-  header_image_path: "experience.svg",
+    "Senior Full Stack Developer | TechnicalLead with 12+ years of experience designing and delivering scalable, cloud-native applications and leading Agile team of up to 10 engineers. Strong expertise in microservices architecture, Serverless architecture, API design, distributed systems, and CI/CD automation. Experienced in AI-enabled applications and modern DevOps practices. Domain expertise in Maritime, Banking, and Financial Services.",
+  header_image_path: "experience_Hemalatha.png",
   sections: [
     {
       title: "Work",
@@ -394,8 +394,8 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects use variety of frameworks and tools. One of the best is to create a website as my own portfolio.",
-  avatar_image_path: "projects_image.svg",
+    "My projects use variety of modern technologies, frameworks and tools. One of the best is a website for my own portfolio.",
+  avatar_image_path: "projects_Hemalatha.png",
 };
 
 /*
