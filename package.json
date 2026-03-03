@@ -2,7 +2,6 @@
   "private": true,
   "name": "hemalathaPortfolio",
   "version": "0.1.0",
-  "homepage": "https://HemalathaDhakshinamoorthy.github.io/hemalathaPortfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
