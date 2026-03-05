@@ -5,12 +5,11 @@
 
 ✔️ Home - Summary and What I do\
 ✔️ Education\
-✔️ Certifications 🏆\
 ✔️ Experience\
 ✔️ Projects\
 ✔️ Contact me
 
-To view a live example, **[click here](https://hemalathadhakshinamoorthy.github.io/)**
+To view a live example, **[click here](https://hemalatha-dhakshinamoorthy.vercel.app/)**
 
 # Technologies used 🛠️
 
